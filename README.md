@@ -76,7 +76,6 @@ ESP32-S3가 부팅되면 아래 순서로 동작한다.
 
 ### 부팅 시 흐름
 
-
 <img width="378" height="1714" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/b2b2d96c-c4aa-420b-b7dc-d1a691f7190e" />
 
 
