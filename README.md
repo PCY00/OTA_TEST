@@ -76,18 +76,14 @@ ESP32-S3가 부팅되면 아래 순서로 동작한다.
 
 ### 부팅 시 흐름
 
-```
+
 <img width="378" height="1714" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/b2b2d96c-c4aa-420b-b7dc-d1a691f7190e" />
 
-```
 
 ### 반복 루프 흐름
 
-```
 <img width="1319" height="1760" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/279523d0-7562-4e35-89f3-ca020a4eba95" />
 
-
-```
 
 ---
 
